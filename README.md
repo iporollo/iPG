@@ -7,4 +7,4 @@ may be asked in a real Y-Combinator, or any incubator/investor, interview.
 iPG was written by James Cunningham and Colin Hayhurst for their
 Y-Combinator interview with [GoScale](https://goscale.com).
 
-Edited by [Ivan Porolo](https://twitter.com/iporollo)
+Edited by [Ivan Porollo](https://twitter.com/iporollo)
